@@ -57,3 +57,51 @@ body{
     background-color: white;
     border-color: lightgray;
 }
+
+h3{
+    color: #444851;
+    font-size: 40px;
+}
+
+.list-section{
+    width: 1700px;
+    height: 1000px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.new-task{   
+    padding-left: 90px;
+    padding-top: 70px;
+}
+
+.checkmark{
+    color: #93d6c8;
+    border: solid;
+    border-width: 1px;
+    border-color: #93d6c8;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.list-item{
+    font-size: 25px;
+}
+
+.tag{
+    font-size: 13px;
+}
+
+.tag-blue{
+    
+    color: white;
+    background-color: #47adf1;
+    padding: 8px 10px;
+    border-radius: 15px;
+}
+
+
+
+
