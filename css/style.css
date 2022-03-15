@@ -26,3 +26,34 @@ body{
     vertical-align: middle;
     padding-top: 20px;
 }
+
+.add-section{
+    height: 70px;
+    width: 1700px;
+    margin: auto;
+    background-color: white;
+    margin-top: 70px;
+    border-radius: 5px;
+}
+
+.buttom{
+    padding: 8px;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 5px;
+    
+}
+
+.task{
+    background-color: #47adf1;
+    color: white;
+    border: none;
+
+}
+
+.section{
+    margin-left: 5px;
+    color: lightgray;
+    background-color: white;
+    border-color: lightgray;
+}
