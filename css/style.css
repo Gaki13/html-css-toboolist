@@ -132,5 +132,16 @@ h3{
     padding: 3px;
 }
 
+.upcoming{
+    padding-left: 90px;
+    padding-top: 70px; 
+}
 
+.tag-pink{
+    background-color: #d863a1;
+}
+
+.tag-sales{
+    background-color: #b9ce3a;
+}
 
