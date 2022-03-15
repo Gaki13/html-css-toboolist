@@ -88,20 +88,49 @@ h3{
 
 .list-item{
     font-size: 25px;
+
 }
 
 .tag{
     font-size: 13px;
-}
-
-.tag-blue{
-    
-    color: white;
-    background-color: #47adf1;
     padding: 8px 10px;
     border-radius: 15px;
+    color: white;
 }
 
+.tag-blue{  
+    background-color: #47adf1;
+}
+
+.tag-purple{
+    background-color: #9c72e4;
+}
+
+.tag-green{
+    background-color: #64c0a9;
+}
+
+.tag-orange{
+    background-color: #f29e33;
+}
+
+.today{
+    padding-left: 90px;
+    padding-top: 70px; 
+}
+
+.row{
+    margin-top: 30px;
+}
+
+.cross{
+    color: #eb5952;
+    border: solid;
+    border-width: 1px;
+    border-color: #eb5952;
+    border-radius: 50%;
+    padding: 3px;
+}
 
 
 
